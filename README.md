@@ -72,15 +72,23 @@ quality / higher CPU cost trade-off.
 Issues only: Overflow (program cant go for something like 800Mhz. As well as arduino doesn’t 
 support my assembly code without xtensa.
 
-``Example output
-Computation Results 
-Output nr = 1 
-Frame bytes = 153600 
-I2C: total_cycles = 200 
-I2C: high_cycles  = 100 
-I2C: low_cycles   = 100 
-Sending to COM1 as: FB=153600,T=200,H=100,L=100 
-Press R to recompute, ESC to quit...`` 
+``Example output``
+
+``Computation Results ``
+
+``Output nr = 1 ``
+
+``Frame bytes = 153600 ``
+
+``I2C: total_cycles = 200`` 
+
+``I2C: high_cycles  = 100 ``
+
+``I2C: low_cycles   = 100 ``
+
+``Sending to COM1 as: FB=153600,T=200,H=100,L=100 ``
+
+``Press R to recompute, ESC to quit...`` 
 
 Sources: 
 https://medium.com/@bayotosho/xtensa-lx7-assembly-walkthrough-by-example-c43f529bdeb1 
@@ -92,3 +100,4 @@ https://medium.com/@aleksej.gudkov/8086-assembly-code-examples-a-beginners-guide
 https://yassinebridi.github.io/asm-docs/asm_tutorial_01.html 
 
 https://godbolt.org
+
