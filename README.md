@@ -72,7 +72,7 @@ quality / higher CPU cost trade-off.
 Issues only: Overflow (program cant go for something like 800Mhz. As well as arduino doesn’t 
 support my assembly code without xtensa.
 
-``Example output``
+## Example output
 
 ``Computation Results ``
 
@@ -100,4 +100,5 @@ https://medium.com/@aleksej.gudkov/8086-assembly-code-examples-a-beginners-guide
 https://yassinebridi.github.io/asm-docs/asm_tutorial_01.html 
 
 https://godbolt.org
+
 
